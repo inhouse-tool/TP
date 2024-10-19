@@ -1,0 +1,4 @@
+SetWaitableTimer( 125 ) notified by Callback	with timeBeginPeriod( 1 )	tested 5 min.	Min: 123.989 / Ave: 124.999 / Max: 126.041	CPU: 0.119%
+124	118
+125	2148
+126	132

@@ -1,0 +1,5 @@
+SetWaitableTimer( 100 ) notified by WM_TIMER	with timeBeginPeriod( 1 )	tested 5 min.	Min: 98.984 / Ave: 99.999 / Max: 101.020	CPU: 0.130%
+99	118
+100	2750
+101	130
+

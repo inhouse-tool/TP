@@ -1,0 +1,4 @@
+SetWaitableTimer( 15 ) notified by WM_APP	tested 5 min.	Min: 14.906 / Ave: 15.622 / Max: 16.258	CPU: 0.098%
+15	394
+16	18808
+

@@ -1,0 +1,7 @@
+SetWaitableTimer( 15 ) notified by Callback	tested 5 min.	Min: 14.483 / Ave: 15.252 / Max: 30.677	CPU: 0.350%
+14	2
+15	16146
+16	3414
+29	2
+30	102
+31	1
